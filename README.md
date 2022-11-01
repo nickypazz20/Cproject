@@ -1,4 +1,4 @@
 # Cproject
-Calculadora em linguagem C
+Conversão de Temperatura em linguagem C
 
-Está Calculadora soma, subtrai, multiplica e divide o número que o usuário adiciona nela.
+Este programa converte temperaturas de Graus Celsius para Fahrenheit usando apenas operaodres aritiméticos.
